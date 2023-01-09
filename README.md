@@ -1,8 +1,10 @@
 ### Hi there 👋
 
 Encourage me on:
-- PayPal https://www.paypal.com/donate/?hosted_button_id=NY34QBZLVF92L
+- Liberapay (Stripe or Paypal) https://en.liberapay.com/Aroun/donate
 - Patreon https://www.patreon.com/zahrun
+- PayPal https://www.paypal.com/donate/?hosted_button_id=NY34QBZLVF92L
+
 
 [![Zahrun's GitHub stats](https://github-readme-stats.vercel.app/api?username=zahrun)](https://github.com/anuraghazra/github-readme-stats)
 
