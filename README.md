@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Encourage me on:
-- Liberapay (Stripe or Paypal) https://en.liberapay.com/Aroun/donate
+- Liberapay https://en.liberapay.com/Aroun/donate
 - Ko-fi https://ko-fi.com/aroun
 - Patreon https://www.patreon.com/zahrun
 - PayPal https://www.paypal.com/donate/?hosted_button_id=NY34QBZLVF92L
