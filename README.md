@@ -4,6 +4,8 @@ I'm a libre software enthusiast. Please consider donating to encourage me.
 
 Youtube channel: https://www.youtube.com/@Zahrun.Videos
 
+GitLab profile: https://gitlab.com/Aroun108
+
 Encourage me on:
 - Ko-fi			https://ko-fi.com/aroun
 - Liberapay	https://en.liberapay.com/Aroun/donate
