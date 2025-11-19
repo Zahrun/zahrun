@@ -1,10 +1,11 @@
 ### Hi there 👋
 
 Encourage me on:
-- Liberapay https://en.liberapay.com/Aroun/donate
 - Ko-fi https://ko-fi.com/aroun
+- Liberapay https://en.liberapay.com/Aroun/donate
 - Patreon https://www.patreon.com/zahrun
 - PayPal https://www.paypal.com/donate/?hosted_button_id=NY34QBZLVF92L
+- Tipeee https://fr.tipeee.com/aroun/
 
 
 [![Zahrun's GitHub stats](https://github-readme-stats.vercel.app/api?username=zahrun)](https://github.com/anuraghazra/github-readme-stats)
